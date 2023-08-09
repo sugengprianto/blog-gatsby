@@ -29,8 +29,8 @@ const config: GatsbyConfig = {
             slug: `/blog`,
           },
           {
-            title: `About`,
-            slug: `/about`,
+            title: `Tentang`,
+            slug: `/tentang`,
           },
         ],
         externalLinks: [
